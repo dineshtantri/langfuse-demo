@@ -1,0 +1,20 @@
+{
+  "name": "langfuse-prompt-management-demo",
+  "version": "1.0.0",
+  "description": "Demo showcasing Langfuse prompt management capabilities",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "dependencies": {
+    "langfuse": "^3.0.0",
+    "openai": "^4.0.0",
+    "dotenv": "^16.0.0",
+    "readline-sync": "^1.4.10"
+  },
+  "keywords": ["langfuse", "prompt-management", "llm", "demo"],
+  "author": "Langfuse Demo",
+  "license": "MIT"
+}

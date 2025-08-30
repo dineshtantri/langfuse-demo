@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(C:\\c\\Users\\dtant\\Desktop\\MyProjects\\my-hugo-site\\content\\posts/**)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
