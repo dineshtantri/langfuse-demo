@@ -202,8 +202,10 @@ After running this demo, try:
 
 ## 📞 Support
 
-For questions about this demo or Langfuse prompt management:
+For questions on Langfuse:
 
 - [Langfuse Documentation](https://langfuse.com/docs)
 - [GitHub Repository](https://github.com/langfuse/langfuse)
 - [Community Discord](https://discord.gg/7NXusRtqYU)
+
+Email me at dinesh [@] digithos.com 
